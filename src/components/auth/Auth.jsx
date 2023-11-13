@@ -42,7 +42,7 @@ const Auth = ({ onLogin }) => {
       <MDBContainer className="my-5 gradient-form">
         <MDBRow>
           <MDBCol col="6" className="mb-5">
-            <div className="d-flex flex-column ms-5">
+            <div className="d-flex flex-column justify-content-center">
               <div className="text-center">
                 <img src={logo} style={{ width: "185px" }} alt="logo" />
                 <h4 className="mt-1 mb-5 pb-1">

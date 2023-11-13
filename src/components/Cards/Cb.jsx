@@ -74,9 +74,9 @@ const Cb = () => {
               <span className="petit-color">25000,00 €</span>
             </div>
             <div>
-              <div className="vert">Utilisé : 435,00 €</div>
+              <div className="vert">Utilisé : 0,00 €</div>
               <ProgressBar variant="success" now={99.8} />
-              <div className="petit-color">Restant : 24565,00 €</div>
+              <div className="petit-color">Restant : 25000,00 €</div>
             </div>
             <div className="trait my-2"></div>
             <div className="petit-color">
