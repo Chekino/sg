@@ -22,7 +22,7 @@ const Auth = ({ onLogin }) => {
     // Utilisez setTimeout pour simuler un chargement de 3 secondes
     setTimeout(() => {
       // Vérifiez les identifiants fournis
-      if (username === "047290" && password === "047290") {
+      if (username === "985436" && password === "697523") {
         // Si les identifiants sont corrects, appelez la fonction onLogin
         onLogin();
       } else {
