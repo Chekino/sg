@@ -1,0 +1,9 @@
+.link-style {
+  text-decoration: none; /* Désactiver le soulignement */
+  color: inherit; /* Utiliser la couleur par défaut du texte */
+  cursor: pointer;
+}
+
+.date-color {
+  color: green;
+}
