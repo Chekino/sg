@@ -1,40 +1,3 @@
-/*import React, { useState } from "react";
-import { Navbar, Nav, Container, NavDropdown } from "react-bootstrap";
-import logo from "../../assets/logo-sg.svg";
-function Header() {
-  const [expanded, setExpanded] = useState(false);
-
-  const handleNavbarToggle = () => {
-    setExpanded(!expanded);
-  };
-  return (
-    <>
-      <Navbar bg="danger" variant="dark" expand="lg" expanded={expanded}>
-        <Container>
-          <Navbar.Brand href="#home" width="">
-            <img src={logo} alt="" />
-          </Navbar.Brand>
-          <Navbar.Toggle
-            onClick={handleNavbarToggle}
-            aria-controls="basic-navbar-nav"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </Navbar.Toggle>
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="me-auto">
-              <Nav.Link href="">Mes comptes</Nav.Link>
-              <Nav.Link href="">Mes Cartes</Nav.Link>
-              <Nav.Link href="">Paramètres</Nav.Link>
-            </Nav>
-          </Navbar.Collapse>
-        </Container>
-      </Navbar>
-    </>
-  );
-}
-
-export default Header;*/
-
 import React, { useState } from "react";
 import {
   Navbar,
@@ -44,7 +7,7 @@ import {
   Offcanvas,
   Image,
 } from "react-bootstrap";
-import logo from "../assets/logo-sg.svg";
+import logo from "../assets/02_ok.svg";
 import "./header.css";
 import profil from "../assets/2606517_5856.jpg";
 import { Link } from "react-router-dom";
@@ -80,7 +43,7 @@ const Header = ({ onLogout }) => {
             </svg>
             <div style={{ fontSize: "10px" }}>MENU</div>
           </Button>
-          <Navbar.Brand href="#">
+          <Navbar.Brand href="#" style={{ width: "100px", height: "50px" }}>
             <img src={logo} alt="" />
           </Navbar.Brand>
 
@@ -121,7 +84,7 @@ const Header = ({ onLogout }) => {
             />
 
             <div>
-              <div className="fw-bold">David Baudry</div>
+              <div className="fw-bold">Sabrine Fournier</div>
               <div>Numéro de compte : **** 8856</div>
             </div>
           </div>

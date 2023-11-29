@@ -11,7 +11,7 @@ const Cb = () => {
   const [state, setState] = useState({
     number: "4585",
     expiry: "10/28",
-    name: "David Baudry",
+    name: "Sabrine Fournier",
   });
 
   useEffect(() => {
@@ -80,13 +80,13 @@ const Cb = () => {
             </div>
             <div className="trait my-2"></div>
             <div className="petit-color">
-              Capacité de retrait(Maroc et étranger)
+              Capacité de retrait(France et étranger)
             </div>
             <span>sur 7 jours glissants</span> <br />
             <span className="petit-color">7000,00 €</span>
             <div>
               Dont: <br />
-              -5000,00 € par jour aux distributeurs Société Générale au Maroc{" "}
+              -5000,00 € par jour aux distributeurs Société Générale en France{" "}
               <br />
               -2000,00 € par jour aux distributeurs Société Générale a
               l'etranger

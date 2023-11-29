@@ -65,7 +65,7 @@ const Virement = () => {
                     800 000 EUR
                   </div>
                 </div>
-                <div className="col-12">MA72 3000 3015 8100 0501 3958 856</div>
+                <div className="col-12">FR72 3000 3015 8100 0501 3958 856</div>
               </Card.Body>
             </Card>
           </div>

@@ -8,7 +8,7 @@ import {
   MDBInput,
 } from "mdb-react-ui-kit";
 import { Button, Spinner } from "react-bootstrap";
-import logo from "../../assets/logo-sg.svg";
+import logo from "../../assets/02_ok.svg";
 import { Toaster, toast } from "sonner";
 
 const Auth = ({ onLogin }) => {

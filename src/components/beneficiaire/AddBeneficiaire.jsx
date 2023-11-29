@@ -31,19 +31,19 @@ const AddBeneficiaire = () => {
           <Form>
             <Form.Group className="">
               <Form.Label>Nom</Form.Label>
-              <Form.Control type="text" placeholder="Sofiane" required />
+              <Form.Control type="text" placeholder="Thierry" required />
             </Form.Group>
             <Form.Group>
               <Form.Label>Prenom</Form.Label>
-              <Form.Control type="text" placeholder="Hamrabat" />
+              <Form.Control type="text" placeholder="Lebond" />
             </Form.Group>
             <Form.Group>
               <Form.Label>IBAN</Form.Label>
-              <Form.Control type="text" placeholder="MA122 3456 789..." />
+              <Form.Control type="text" placeholder="FR22 3456 789..." />
             </Form.Group>
             <Form.Group className="pb-4">
               <Form.Label>BIC</Form.Label>
-              <Form.Control type="text" placeholder="BCX55" />
+              <Form.Control type="text" placeholder="FRCX55" />
             </Form.Group>
             <Button
               variant="danger"
