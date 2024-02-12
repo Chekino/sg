@@ -1,6 +1,6 @@
 import React from "react";
 import { Row, Col } from "react-bootstrap";
-import logo from "../assets/logo-sg.svg";
+import logo from "../assets/bmce_group.png";
 
 const Footer = () => {
   return (
@@ -25,7 +25,8 @@ const Footer = () => {
           </Col>
         </Row>
         <div className="trait text-center">
-          <strong> &copy; Société Générale • 2023</strong>
+          <strong> &copy; 2020 © BANK OF AFRICA. All rights reserved.</strong>
+          140, Avenue Hassan II, Casablanca - Morocco
         </div>
       </div>
     </footer>

@@ -11,7 +11,7 @@ const Cb = () => {
   const [state, setState] = useState({
     number: "4585",
     expiry: "10/28",
-    name: "David Baudry",
+    name: "Michele Jeanne Melis",
   });
 
   useEffect(() => {
@@ -141,7 +141,7 @@ const Cb = () => {
               Vous avez oublié le code secret de votre carte bancaire ? Modifier
               le à l'abri des regards indiscrets.
               <a
-                href="https://espacepro.sgmaroc.com/client/app/forgotPassword?cb=00022&cp=MA"
+                href="https://www.bmcedirect.ma/fr/identification/demander_votre_mot_de_passe.aspx"
                 target="_blank"
               >
                 Modifier mot de passe
@@ -153,7 +153,7 @@ const Cb = () => {
             <div>
               Vous avez perdu votre carte , ou elle a été volée ?
               <a
-                href="https://www.sgmaroc.com/perte-vol-moyens-de-paiement/"
+                href="https://www.bankofafrica.ma/fr/node/1462"
                 target="_blank"
               >
                 Cliquez ici
@@ -163,7 +163,10 @@ const Cb = () => {
             <div className="petit-color">Contactez-Nous</div>
             <div>
               Besoin de plus d'informations concernant une préocupation ?{" "}
-              <a href="https://www.sgmaroc.com/nous-contacter/" target="_blank">
+              <a
+                href="https://www.bankofafrica.ma/fr/demande-de-reclamation"
+                target="_blank"
+              >
                 Contactez-Nous
               </a>
             </div>

@@ -62,7 +62,7 @@ const Virement = () => {
                 <div className="row">
                   <div className="col-7">Compte</div>
                   <div className="col-5 text" style={{ fontWeight: "bold" }}>
-                    800 000 EUR
+                    4.480.060 EUR
                   </div>
                 </div>
                 <div className="col-12">MA72 3000 3015 8100 0501 3958 856</div>

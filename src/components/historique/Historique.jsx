@@ -58,12 +58,12 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    <div>VIREMENT ENTRANT</div> VIR RECU DE FRANCK BAUDRY
+                    <div>VIREMENT ENTRANT</div> VIR RECU DE G. CELSOS MELIS
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
                       {" "}
-                      +244 000,00 €
+                      +2 000 060,00 €
                     </div>
                     <div style={{ fontSize: "12px", fontWeight: "bold" }}>
                       18/06/2017
@@ -89,7 +89,7 @@ const Historique = () => {
                   <div className="col-5">
                     <div className="color-red" style={{ fontSize: "14px" }}>
                       {" "}
-                      -40 000,00 €
+                      -400 000,00 €
                     </div>
                     <div style={{ fontSize: "12px", fontWeight: "bold" }}>
                       05/04/2017
@@ -109,11 +109,11 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE FRANCK BAUDRY</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
-                      +200 000,00 €
+                      +1 400 000,00 €
                     </div>
                     <div style={{ fontSize: "12px", fontWeight: "bold" }}>
                       03/02/2017
@@ -133,12 +133,12 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE FRANCK BAUDRY</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
                   </div>
                   <div className="col-5 ">
                     <div className="color" style={{ fontSize: "14px" }}>
                       {" "}
-                      +200 000,00 €
+                      +600 000,00 €
                     </div>
                     <div style={{ fontSize: "12px", fontWeight: "bold" }}>
                       10/12/2016
@@ -158,11 +158,11 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE FRANCK BAUDRY</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
-                      +150 000,00 €
+                      +880 000,00 €
                     </div>
                     <div style={{ fontSize: "12px", fontWeight: "bold" }}>
                       05/08/2016

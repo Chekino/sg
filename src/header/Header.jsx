@@ -44,7 +44,7 @@ import {
   Offcanvas,
   Image,
 } from "react-bootstrap";
-import logo from "../assets/logo-sg.svg";
+import logo from "../assets/bmce_group.png";
 import "./header.css";
 import profil from "../assets/2606517_5856.jpg";
 import { Link } from "react-router-dom";
@@ -121,7 +121,7 @@ const Header = ({ onLogout }) => {
             />
 
             <div>
-              <div className="fw-bold">David Baudry</div>
+              <div className="fw-bold">MICHELE JEANNE SOLIS</div>
               <div>Numéro de compte : **** 8856</div>
             </div>
           </div>

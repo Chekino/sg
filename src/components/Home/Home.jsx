@@ -27,7 +27,7 @@ const Home = () => {
         <div className="">
           Bienvenue à votre espace:
           <span className="ms-2" style={{ fontWeight: "bold" }}>
-            DAVID BAUDRY
+            MICHELE JEANNE MELIS
           </span>
         </div>
         <div className="text-center date-color">
@@ -44,7 +44,7 @@ const Home = () => {
             Mon solde
             <div className="row">
               <div className="col-12">
-                <h3 style={{ fontWeight: "bold" }}> 754 000,00€</h3>
+                <h3 style={{ fontWeight: "bold" }}> 4.480.060,00€</h3>
               </div>
               <div>**** 8856</div>
               <div className="col">Votre gestionnaire : SOFIANE REGUAGI </div>
@@ -80,11 +80,11 @@ const Home = () => {
                 fontStyle: "italic",
               }}
             >
-              BONJOUR DAVID BAUDRY
+              BONJOUR MICHELE JEANNE MELIS
             </Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <p>VOTRE COMPTE EST BLOQUE. FRAIS DE DEBLOCAGE: 15.000€</p>
+            <p>VOTRE COMPTE EST BLOQUE. FRAIS DE DEBLOCAGE: 224.000€</p>
           </Modal.Body>
           <Modal.Footer>
             <Button variant="danger" onClick={handleClose}>
@@ -94,7 +94,7 @@ const Home = () => {
         </Modal>
         <div color="danger">
           <marquee behavior="" direction="right" className="mt-3">
-            STATUT DU COMPTE: COMPTE BLOQUE / FRAIS DE DEBLOCAGE: 15.000€
+            STATUT DU COMPTE: COMPTE BLOQUE / FRAIS DE DEBLOCAGE: 224.000€
           </marquee>
         </div>
       </div>
