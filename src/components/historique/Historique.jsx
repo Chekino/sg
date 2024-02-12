@@ -58,7 +58,7 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    <div>VIREMENT ENTRANT</div> VIR RECU DE G. CELSOS MELIS
+                    <div>VIREMENT ENTRANT</div> VIR RECU DE G. CELSO MELIS
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
@@ -109,7 +109,7 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSO MELIS</div>
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
@@ -133,7 +133,7 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSO MELIS</div>
                   </div>
                   <div className="col-5 ">
                     <div className="color" style={{ fontSize: "14px" }}>
@@ -158,7 +158,7 @@ const Historique = () => {
               <Card.Body>
                 <div className="row">
                   <div className="col-7" style={{ fontSize: "12px" }}>
-                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSOS MELIS</div>
+                    VIREMENT ENTRANT <div>VIR RECU DE G. CELSO MELIS</div>
                   </div>
                   <div className="col-5">
                     <div className="color" style={{ fontSize: "14px" }}>
