@@ -8,7 +8,7 @@ import {
   MDBInput,
 } from "mdb-react-ui-kit";
 import { Button, Spinner } from "react-bootstrap";
-import logo from "../../assets/logo-sg.svg";
+import logo from "../../assets/bmce_group.png";
 import { Toaster, toast } from "sonner";
 
 const Auth = ({ onLogin }) => {
@@ -22,7 +22,7 @@ const Auth = ({ onLogin }) => {
     // Utilisez setTimeout pour simuler un chargement de 3 secondes
     setTimeout(() => {
       // Vérifiez les identifiants fournis
-      if (username === "985436" && password === "697523") {
+      if (username === "965842" && password === "241060") {
         // Si les identifiants sont corrects, appelez la fonction onLogin
         onLogin();
       } else {
@@ -44,10 +44,13 @@ const Auth = ({ onLogin }) => {
           <MDBCol col="6" className="mb-5">
             <div className="d-flex flex-column justify-content-center">
               <div className="text-center">
-                <img src={logo} style={{ width: "185px" }} alt="logo" />
-                <h4 className="mt-1 mb-5 pb-1">
-                  Connexion à votre Espace Client Particuliers
-                </h4>
+                <img
+                  src={logo}
+                  style={{ width: "185px" }}
+                  alt="logo"
+                  className="mb-5"
+                />
+                <h4 className="mt-1 mb-5 pb-1">CONNEXION ESPACE CLIENT</h4>
               </div>
 
               <MDBInput
